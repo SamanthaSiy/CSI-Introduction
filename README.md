@@ -1,7 +1,7 @@
 # **How to Run**
 ### 1. Clone this repository
 ```
-git clone 
+git clone https://github.com/SamanthaSiy/CSI-Introduction/
 ```
 ### 2. Run the program
 For windows:
